@@ -10,9 +10,9 @@ I have build this website with my core HTML CSS skills
 
 ![image](./created.png)
 
-You can check out here: [Web Designing Landing Page By Hitesh](https://food-restaurant-by-hitesh.netlify.app/)
+You can check out here: [Web Designing Landing Page By Hitesh](https://web-design-page-by-hitesh.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/92bd9fb0-babc-43d5-80bf-5c41db83ea4c/deploy-status)](https://app.netlify.com/sites/food-restaurant-by-hitesh/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/56619dfc-f5b7-4fcd-a56b-153cc463a671/deploy-status)](https://app.netlify.com/sites/web-design-page-by-hitesh/deploys)
 
 
 ## What i have learned from this project
