@@ -101,14 +101,16 @@ nav > img {
     text-align: center;
     padding: 0rem 2rem;
   }
-}
-@media screen and (max-width: 810px) {
   .imgs-div::before {
-    top: -575px;
+    display: none;
   }
 }
-@media screen and (max-width: 810px) {
-  .imgs-div::before {
-    top: -615px;
+@media screen and (max-width: 640px) {
+  .nav-items {
+    display: none;
+  }
+  nav,
+  .intro-section {
+    padding: 1rem;
   }
 }
